@@ -22,3 +22,4 @@ echo "#!/bin/bash" > /home/wilder/Projets/$nom_du_dossier/$Fichier2
 echo "Projet $nom_du_dossier initialisé"
 
 #Réduction des droits
+chmod +x /home/wilder/Projets/$nom_du_dossier/$Fichier2
